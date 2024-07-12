@@ -1,0 +1,33 @@
+div
+{
+    margin: 50px;
+    padding:50px;
+    height: 100px;
+    width:100px;
+    background-color: red;
+}
+#box1
+{
+    background-color: red;
+    display:inline-block;
+    margin: 50px;
+    padding:50px;
+    
+
+}
+#box2
+{
+    background-color: yellow;
+    display: inline-block;
+    margin: 50px;
+    padding:50px;
+    visibility: hidden;
+    
+}
+#box3
+{
+    background-color:forestgreen;
+    display: inline-block;
+    margin: 50px;
+    padding:50px;
+}

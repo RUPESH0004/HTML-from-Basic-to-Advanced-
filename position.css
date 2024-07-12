@@ -1,0 +1,38 @@
+div{
+    height: 100px;
+    width:100px;
+    display:inline-block;
+    background-color: aqua;
+    border:2px solid black;
+}
+#box1
+{
+    background-color: black;
+    position: relative;
+    top: 100px;
+}
+#box2
+{
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    top: 200px;
+}
+#box3
+{
+    background-color: rgb(157, 29, 29);
+    position: relative;
+    top: 300px;
+}
+#box4
+{
+   background-image:url(Personal\ Vault.lnk) ;
+    position: fixed;
+    bottom: 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+body{
+    background-image:url(AMAZON.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,26 @@
+h1{
+    color:blue;
+    font-family:arial;
+
+}
+label {
+    color:rgb(14, 11, 8);
+}
+button{
+    background-color:rgb(43, 226, 128);
+}
+input{
+    color:brown
+    background-color:blue;
+}
+div{
+    font-size:10x;
+    height: 100px ;
+    width:100px;
+    border:2px sloid brown ;
+    text-align: right;
+   
+   }
+
+
+

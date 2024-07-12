@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+div{
+ font-size:10x;
+ height: 100px ;
+ width:100px;
+ border:2px sloid brown ;
+ text-align: right;
+
+}
+*{
+    font-family:'Times New Roman';
+    line-height:32px;
+}
+#outer
+{
+    font-size:25px;
+}
+#inner
+{
+    font-size:10x;
+    
+}
